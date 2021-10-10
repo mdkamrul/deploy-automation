@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.kzarif</groupId>
 	<artifactId>auto-deploy</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>kz</version>
 	<packaging>war</packaging>
 	<name>auto-deploy</name>
 	<description>Demo project for Spring Boot</description>
